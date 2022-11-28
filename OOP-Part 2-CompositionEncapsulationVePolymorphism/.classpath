@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Composition/src"/>
+	<classpathentry kind="src" path="Encapsulation/src"/>
+	<classpathentry kind="src" path="miniProjeler/BeybladeProgrami/src"/>
+	<classpathentry kind="src" path="PolyMorphism1/src"/>
+	<classpathentry kind="src" path="PolyMorphism2/src"/>
+	<classpathentry kind="output" path="Composition/build/classes"/>
+</classpath>

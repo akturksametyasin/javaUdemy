@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="KodBloklarindakiLokalDegiskenler/src"/>
+	<classpathentry kind="src" path="MetodlaraGiris/src"/>
+	<classpathentry kind="src" path="MetodlardaReturn/src"/>
+	<classpathentry kind="src" path="miniProjeler/1000eKadarOlanAsalSayilar/src"/>
+	<classpathentry kind="src" path="miniProjeler/İkiSayininEbobunuBulma/src"/>
+	<classpathentry kind="src" path="miniProjeler/MethodOverloading-HesapMakinesi/src"/>
+	<classpathentry kind="src" path="Overloading/src"/>
+	<classpathentry kind="src" path="ParametreliMetodlar/src"/>
+	<classpathentry kind="output" path="KodBloklarindakiLokalDegiskenler/build/classes"/>
+</classpath>

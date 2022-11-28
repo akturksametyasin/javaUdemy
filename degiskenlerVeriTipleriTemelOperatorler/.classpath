@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CharBoolean/src"/>
+	<classpathentry kind="src" path="Degiskenler/src"/>
+	<classpathentry kind="src" path="FloatDouble/src"/>
+	<classpathentry kind="src" path="InputAlma/src"/>
+	<classpathentry kind="src" path="miniProjeler/BedenKitleIndeksi/src"/>
+	<classpathentry kind="src" path="miniProjeler/DegiskenDegerleriniDegistirme/src"/>
+	<classpathentry kind="src" path="miniProjeler/HipotenusBulma/src"/>
+	<classpathentry kind="src" path="miniProjeler/YakitTutari/src"/>
+	<classpathentry kind="src" path="Operatorler/src"/>
+	<classpathentry kind="src" path="ScannerDetay/src"/>
+	<classpathentry kind="src" path="Stringler/src"/>
+	<classpathentry kind="src" path="TamSayiVeriTipleri/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="KarsilastirmaOperatorleri/src"/>
+	<classpathentry kind="src" path="KodBloklari/src"/>
+	<classpathentry kind="src" path="KosulluDurumlar1/src"/>
+	<classpathentry kind="src" path="KosulluDurumlar2/src"/>
+	<classpathentry kind="src" path="MantiksalOperatorler/src"/>
+	<classpathentry kind="src" path="miniProjeler/BedenKitleIndeksiKosulluDurumlar/src"/>
+	<classpathentry kind="src" path="miniProjeler/GelismisNotHesaplama/src"/>
+	<classpathentry kind="src" path="miniProjeler/MaksimumMinimumBulma/src"/>
+	<classpathentry kind="src" path="miniProjeler/SwitchCaseHesapMakinesi/src"/>
+	<classpathentry kind="src" path="switchcase/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

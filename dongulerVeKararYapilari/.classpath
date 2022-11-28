@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BreakAndContinue/src"/>
+	<classpathentry kind="src" path="DoWhileDonguleri/src"/>
+	<classpathentry kind="src" path="ForDonguleri/src"/>
+	<classpathentry kind="src" path="miniProjeler/ArmstrongSayisiBulma/src"/>
+	<classpathentry kind="src" path="miniProjeler/CarpimTablosuOlusturma/src"/>
+	<classpathentry kind="src" path="miniProjeler/FaziUgulamasi/src"/>
+	<classpathentry kind="src" path="miniProjeler/WhileAtmProgrami/src"/>
+	<classpathentry kind="src" path="miniProjeler/WhileileKullaniciGirisKontolu/src"/>
+	<classpathentry kind="src" path="WhileDonguleri/src"/>
+	<classpathentry kind="output" path="BreakAndContinue/build/classes"/>
+</classpath>

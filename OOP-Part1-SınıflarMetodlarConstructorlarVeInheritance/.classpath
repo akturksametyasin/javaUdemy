@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ClasslarinMetodlari/src"/>
+	<classpathentry kind="src" path="Constructor1/src"/>
+	<classpathentry kind="src" path="Constructor2/src"/>
+	<classpathentry kind="src" path="Inheritance1/src"/>
+	<classpathentry kind="src" path="Inheritance2/src"/>
+	<classpathentry kind="src" path="miniProjeler/CalisanlarProgrami/src"/>
+	<classpathentry kind="src" path="miniProjeler/IdmanProgrami/src"/>
+	<classpathentry kind="src" path="miniProjeler/OOPAtm/src"/>
+	<classpathentry kind="src" path="OOPGiris/src"/>
+	<classpathentry kind="src" path="Referanslar/src"/>
+	<classpathentry kind="output" path="ClasslarinMetodlari/build/classes"/>
+</classpath>
